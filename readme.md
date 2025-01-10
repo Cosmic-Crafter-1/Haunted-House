@@ -1,4 +1,6 @@
-# Three.js Journey
+# Haunted House 
+
+First good project on this topic haha, the box concept was crazy good.
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
